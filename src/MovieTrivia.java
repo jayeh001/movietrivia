@@ -37,8 +37,7 @@ public class MovieTrivia {
 		//print all actors and movies
 		printAllActors();
 		printAllMovies();
-		insertActor("bob", new String [] {"a","b"}, movieDB.getActorsInfo());
-		printAllActors();
+		
 	}
 	
 	/**

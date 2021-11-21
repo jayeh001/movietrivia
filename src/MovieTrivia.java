@@ -35,6 +35,7 @@ public class MovieTrivia {
 		movieDB.setUp(movieData, movieRatings);
 		
 		//print all actors and movies
+		System.out.println("Welcome to the movie database!");
 		printAllActors();
 		printAllMovies();
 		
